@@ -78,4 +78,4 @@ reference,year,,,,,Calendar year,lin,,,,,,yyyy,,
 reference,domestic-budget-level,,,Domestic budget hierarchy level,"id, level, name",,,,,,,,,,
 reference,domestic-budget-type,,,Domestic budget type,"id, name",,,,,,,,,,
 region-year,,,,,,,lin,,,,,,,,
-country-year,gdp-current-ncu-fy,composite,,GDP in current National Currency Units as corresponding to Fiscal Year,"id, year, estimate, value",GDP in current National Currency Units as corresponding to Fiscal Year,log,,NCU,NCU,IMF,,,highisbetter,"1,1000,1000000,1000000000,1000000000000,1000000000000000,1000000000000000000"
+country-year,gdp-current-ncu-fy,composite,,GDP in current national currency units as corresponding to fiscal year,"id, year, estimate, value",GDP in current national currency units as corresponding to fiscal year,log,,NCU,NCU,IMF,,,highisbetter,"1,1000,1000000,1000000000,1000000000000,1000000000000000,1000000000000000000"
