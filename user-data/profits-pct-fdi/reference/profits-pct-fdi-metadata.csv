@@ -6,11 +6,14 @@
 "columns","id, year, value"
 "description","The outflow of profits on FDI as a proportion of new investments in the same year (note that negative values are set to zero)"
 "default-scale","lin"
-"theme","intlmix"
+"themes","intlmix"
+"map-theme","intlmix"
+"theme-order","4"
+"global-picture-color-ramp","orange"
 "uom","percent"
 "uom_display","%"
 "source","Development Initiatives calculations based on World Bank and UNCTAD"
-"calculation",
+"calculation","This indicator is the ratio of the outflow of profits on foreign direct investment leaving each country to the total of new foreign direct investments in the same countries each year."
 "format",
 "highorlow","lowisbetter"
 "range","25, 50, 75, 100, 200"
@@ -19,4 +22,3 @@
 "missing-recipient","NA"
 "laymans-decription","The outflow of profits on FDI as a proportion of new investments in the same year"
 "laymans-heading","Profits on FDI as a proportion of new investments"
-"theme-order","4"

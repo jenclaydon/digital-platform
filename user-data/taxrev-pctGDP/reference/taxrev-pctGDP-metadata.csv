@@ -6,7 +6,10 @@
 "columns","id, year, value"
 "description","Tax revenue as a proportion of GDP"
 "default-scale","lin"
-"theme",
+"themes",
+"map-theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","% GDP"
 "uom_display","%"
 "source","World Bank"
@@ -19,4 +22,3 @@
 "missing-recipient","NA"
 "laymans-decription","Taxes collected by the national government as a percentage of the country's GDP"
 "laymans-heading","Tax revenue as a % of GDP"
-"theme-order",

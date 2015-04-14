@@ -6,11 +6,14 @@
 "columns","id, year, value"
 "description","Remittances per person"
 "default-scale","lin"
-"theme","intlmix"
+"themes","intlmix"
+"map-theme","intlmix"
+"theme-order","5"
+"global-picture-color-ramp","blue"
 "uom","unit"
 "uom_display",
 "source","Development Initiatives calculations based on World Bank"
-"calculation",
+"calculation","Remittances received divided by the total population of each country"
 "format",
 "highorlow","highisbetter"
 "range","50, 100, 200, 300, 500"
@@ -19,4 +22,3 @@
 "missing-recipient","NA"
 "laymans-decription","The amount of remittances received per person per country in USD"
 "laymans-heading","Remittances per person received "
-"theme-order","5"

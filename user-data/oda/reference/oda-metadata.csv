@@ -6,7 +6,10 @@
 "columns","id-from,id-to, year, sector, bundle, channel, value"
 "description","Gross ODA"
 "default-scale","lin"
-"theme","official"
+"themes","official"
+"map-theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","USD"
 "uom_display","USD"
 "source","Development Initiatives based on OECD-DAC data"
@@ -19,4 +22,3 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
-"theme-order",

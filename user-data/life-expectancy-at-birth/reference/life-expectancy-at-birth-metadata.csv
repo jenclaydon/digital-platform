@@ -6,7 +6,10 @@
 "columns","id, year, value"
 "description","Life expectancy at birth, total (years)"
 "default-scale","lin"
-"theme","health"
+"themes","health"
+"map-theme",
+"theme-order",
+"global-picture-color-ramp",
 "uom","unit"
 "uom_display",
 "source","World Bank World Development Indicators"
@@ -19,4 +22,3 @@
 "missing-recipient","NA"
 "laymans-decription",
 "laymans-heading",
-"theme-order",
